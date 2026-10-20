@@ -24,7 +24,7 @@
 <h3 align="center">Tech Pool</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,ts,tailwind,express,postgres,docker,mongodb,supabase,git,bun" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=elixir,nodejs,react,nextjs,ts,tailwind,express,postgres,docker,mongodb,supabase,git,bun" alt="Tech Stack"/>
 </div>
 
 <br/>
